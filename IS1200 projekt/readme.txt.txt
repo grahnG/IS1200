@@ -1,0 +1,1 @@
+To compile and download the code to your ChipKit, you need to have Msys and mcb32tools downloaded on your computer. In the Msys terminal, first write . /opt/mcb32tools/environment, then go to where the folder where your code is located, then write make, and after that write make install. Make will compile the code, and make install will download it to your ChipKit. 
